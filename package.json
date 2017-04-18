@@ -1,0 +1,21 @@
+{
+  "name": "shift-minify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pipeline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "shift-ast": "4.0.0",
+    "shift-parser": "5.0.5",
+    "shift-scope": "3.0.0",
+    "shift-spec": "2016.0.0"
+  },
+  "devDependencies": {
+    "shift-codegen": "5.0.3"
+  }
+}
